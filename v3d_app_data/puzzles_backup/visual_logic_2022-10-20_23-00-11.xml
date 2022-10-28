@@ -1,0 +1,13 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="init" type="InitTab" active="true" scrollx="21.987524734330464" scrolly="21.6259885659789" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="initPreloader" id="h[{gRpB#J]3:1uO#=qY(" x="70" y="160"></block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="text" id="]oK?}z8V!k~T[RG1BgIJ" x="354" y="151">
+      <field name="TEXT">none</field>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="text" id="b(+VZ}n6S!0V;$vHUZZU" x="392" y="348">
+      <field name="TEXT">All</field>
+    </block>
+  </tab>
+  <tab name="main" type="MainTab" active="false" scrollx="20.5999755859375" scrolly="20.4000244140625" scale="0.9"></tab>
+  <editorsettings viewport-x="879" viewport-y="28" viewport-w="598" viewport-h="377" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>

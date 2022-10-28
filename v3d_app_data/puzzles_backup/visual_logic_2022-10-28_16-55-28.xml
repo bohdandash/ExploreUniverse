@@ -1,0 +1,36 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="init" type="InitTab" active="true" scrollx="-74.79060974121091" scrolly="104.39999389648438" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="initPreloader" id="h[{gRpB#J]3:1uO#=qY(" x="70" y="160">
+      <statement name="DO_END">
+        <block type="setTimeout" id="^EGR?HS*LCSD_kqrU06i">
+          <value name="VALUE">
+            <shadow type="math_number" id="Scq$cXC-MkG3VSxMb##)">
+              <field name="NUM">100</field>
+            </shadow>
+          </value>
+          <statement name="DO">
+            <block type="setHTMLElemStyle" id="(c`+wnr^UTvLVqV_8DVW">
+              <field name="PROPERTY">display</field>
+              <field name="PARENT">TRUE</field>
+              <value name="VALUE">
+                <block type="text" id="]oK?}z8V!k~T[RG1BgIJ">
+                  <field name="TEXT">none</field>
+                </block>
+              </value>
+              <value name="ID">
+                <shadow type="text" id="41uv@vo_bw8;2F%T)OFQ">
+                  <field name="TEXT"></field>
+                </shadow>
+                <block type="text" id="b(+VZ}n6S!0V;$vHUZZU">
+                  <field name="TEXT">All</field>
+                </block>
+              </value>
+            </block>
+          </statement>
+        </block>
+      </statement>
+    </block>
+  </tab>
+  <tab name="main" type="MainTab" active="false" scrollx="20.5999755859375" scrolly="0" scale="0.9"></tab>
+  <editorsettings viewport-x="879" viewport-y="28" viewport-w="598" viewport-h="377" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
